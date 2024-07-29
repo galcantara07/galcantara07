@@ -8,8 +8,7 @@ e instigar cada vez mais a minha curiosidade sobre hardwares e software. Em meio
 Ataulmente, não é surpresa para ninguém eu ser estudante da área e estar no 4° período do curso de ADS. 
 
 Além da faculdade, estudo de forma autoditada conteúdos de programação e estou sempre buscando por novos conhecimentos. Recentemente, finalizei o curso Programa de Desenvolvedor Full Stack do Senac 
-e posso dizer que foi um verdadeiro divisor de água na minha trajetória como estudante: Através dele, pude vivenciar de forma prática o funcionamento de código e aplicá-los em um projeto
-que teve a minha participação do início ao fim. Logo, fico feliz e orgulhosa em pode dizer que adquiri um conhecimento valioso em aplicações Web e pretendo colocá-los em prática e me especializar 
+e posso dizer que foi um verdadeiro divisor de água na minha trajetória como estudante: Através dele, pude vivenciar de forma prática o funcionamento de código e aplicá-los em um projeto final que necessitava de todas as funcionalidades do Full Stack (Front e Back). Logo, fico feliz e orgulhosa em pode dizer que adquiri um conhecimento valioso em aplicações Web e pretendo colocá-los em prática e me especializar 
 cada vez mais. 
 
 Apesar de ter familiaridade maior com Front-end e com a criação de sites, também possuo conhecimento em back-end e aplicação de banco de dados.
