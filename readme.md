@@ -7,7 +7,7 @@ um curso profissionalizante da área e durante dois anos e meio, o meu dia prefe
 e instigar cada vez mais a minha curiosidade sobre hardwares e software. Em meio a essa animação toda, a pequena Gabriella só teve uma certeza: Que quando crescesse ia estudar tecnologia!
 Ataulmente, não é surpresa para ninguém eu ser estudante da área e estar no 4° período do curso de ADS. 
 
-Além da faculdade, estudo de forma autoditada conteúdos de programação e estou sempre buscando por novos conhecimentos. Recentemente, finalizei o curso Programa de Desenvolvedor Full do Senac 
+Além da faculdade, estudo de forma autoditada conteúdos de programação e estou sempre buscando por novos conhecimentos. Recentemente, finalizei o curso Programa de Desenvolvedor Full Stack do Senac 
 e posso dizer que foi um verdadeiro divisor de água na minha trajetória como estudante: Através dele, pude vivenciar de forma prática o funcionamento de código e aplicá-los em um projeto
 que teve a minha participação do início ao fim. Logo, fico feliz e orgulhosa em pode dizer que adquiri um conhecimento valioso em aplicações Web e pretendo colocá-los em prática e me especializar 
 cada vez mais. 
