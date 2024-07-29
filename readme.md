@@ -2,7 +2,7 @@
 
 Eu sou a Gabriella, tenho 19 anos e curso análise e desenvolvimento de sistemas. 
 
-Minha trajetória na tecnologia começou quando eu era bem novinha e dizia para todo mundo que adorava exatas e que minha maior paixão era criar coisas novas. Quando tinha 14 anos, me inscrevi em 
+Minha trajetória na tecnologia começou quando eu era bem novinha e dizia para todo mundo que adorava exatas e que minha maior paixão era criar coisas novas. Quando tinha 13 anos, me inscrevi em 
 um curso profissionalizante da área e durante dois anos e meio, o meu dia preferido da semana virou o sábado, que era quando eu podia tocar em um computador, entender mais sobre cada componente
 e instigar cada vez mais a minha curiosidade sobre hardwares e software. Em meio a essa animação toda, a pequena Gabriella só teve uma certeza: Que quando crescesse ia estudar tecnologia!
 Ataulmente, não é surpresa para ninguém eu ser estudante da área e estar no 4° período do curso de ADS. 
