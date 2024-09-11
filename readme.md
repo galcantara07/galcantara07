@@ -12,7 +12,7 @@ e posso dizer que foi um verdadeiro divisor de água na minha trajetória como e
 cada vez mais. 
 
 Apesar de ter familiaridade maior com Front-end, com a criação de sites e UX Design, também possuo conhecimento em back-end e aplicação de banco de dados.
-Ademais, sou curiosa e possuo facilidade para aprender, estou aberta e sempre disposta a aprender 
+Ademais, sou curiosa e possuo facilidade para aprender, estou aberta e sempre disposta a explorar
 algumas novas habilidades, ferramentas e linguagens. 
 
 Minhas linguagens: HTML, CSS, Java Script, PHP e SQL.
