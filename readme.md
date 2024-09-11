@@ -16,5 +16,6 @@ Ademais, sou curiosa e possuo facilidade para aprender, estou aberta e sempre di
 algumas novas habilidades, ferramentas e linguagens. 
 
 Minhas linguagens: HTML, CSS, Java Script, PHP e SQL.
+Framework: Bootstrap, React JS e Next JS.
 
 Conheça mais do meu trabalho de design clicando no link para meu Instagram profissional e Behance :)
