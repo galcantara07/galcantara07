@@ -1,21 +1,10 @@
 <h2>Olá, seja bem-vindo (a)! :wave:</h2>
 
-Eu sou a Gabriella, tenho 19 anos e curso análise e desenvolvimento de sistemas. 
+Eu sou a Gabriella, formada em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia da Computação pelo Instituto Federal do Amazonas (IFAM).
 
-Minha trajetória na tecnologia começou quando eu era bem novinha e dizia para todo mundo que adorava exatas e que minha maior paixão era criar coisas novas. Quando tinha 14 anos, me inscrevi em 
-um curso profissionalizante da área e durante dois anos e meio, o meu dia preferido da semana virou o sábado, que era quando eu podia tocar em um computador, entender mais sobre cada componente
-e instigar cada vez mais a minha curiosidade sobre hardwares e software. Em meio a essa animação toda, a pequena Gabriella só teve uma certeza: Que quando crescesse ia estudar tecnologia!
-Ataulmente, não é surpresa para ninguém eu ser estudante da área e estar no 4° período do curso de ADS. 
+Além da faculdade, estudo de forma autodidata cursos de tecnologia e estou sempre buscando me tornar uma profissional mais aprimorada. Apesar de ter familiaridade maior com Front-end, com a criação de sites e experiência do usuário (UI/UX Design), também possuo conhecimento em back-end e aplicação de banco de dados. Ademais, sou curiosa e possuo facilidade para aprender, estou aberta e sempre disposta a aprender algumas novas ferramentas e linguagens.
 
-Além da faculdade, estudo de forma autoditada conteúdos de programação e estou sempre buscando por novos conhecimentos. Recentemente, finalizei o curso Programa de Desenvolvedor Full Stack do Senac 
-e posso dizer que foi um verdadeiro divisor de água na minha trajetória como estudante: Através dele, pude vivenciar de forma prática o funcionamento de código e aplicá-los em um projeto final que necessitava de todas as funcionalidades do Full Stack (Front e Back). Logo, fico feliz e orgulhosa em pode dizer que adquiri um conhecimento valioso em aplicações Web e pretendo colocá-los em prática e me especializar 
-cada vez mais. 
-
-Apesar de ter familiaridade maior com Front-end, com a criação de sites e UX Design, também possuo conhecimento em back-end e aplicação de banco de dados.
-Ademais, sou curiosa e possuo facilidade para aprender, estou aberta e sempre disposta a explorar
-algumas novas habilidades, ferramentas e linguagens. 
-
-Minhas linguagens: HTML, CSS, Java Script, PHP e SQL.
-Framework: Bootstrap, React JS e Next JS.
+Minhas habilidades: HTML, CSS, Java Script, Figma, PHP, SQL e Node.js
+Frameworks: Bootstrap, React Native, TypeScript e Next JS.
 
 Conheça mais do meu trabalho de design clicando no link para meu Instagram profissional e Behance :)
